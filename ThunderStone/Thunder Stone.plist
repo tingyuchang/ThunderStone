@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Heros</key>
+	<array>
+		<string>Redblade</string>
+		<string>Regian</string>
+		<string>Selurin</string>
+		<string>Thyrian</string>
+		<string>Outlands</string>
+		<string>Lorigg Thief</string>
+		<string>Feayn</string>
+		<string>Elf</string>
+		<string>Dwarf</string>
+		<string>Chalice</string>
+		<string>Amazon</string>
+		<string>Harruli</string>
+	</array>
+	<key>Monsters</key>
+	<array>
+		<string>Doom Knight</string>
+		<string>Abyssal</string>
+		<string>Humanoid</string>
+		<string>Dragon</string>
+		<string>Enchanted</string>
+		<string>Ooze</string>
+		<string>Undead Doom</string>
+		<string>Undead Spirit</string>
+	</array>
+	<key>Villagers_and_Weapons</key>
+	<array>
+		<string>Trainer</string>
+		<string>Arcane Energies</string>
+		<string>Banish</string>
+		<string>Barkeep</string>
+		<string>Battle Fury</string>
+		<string>Short Sword</string>
+		<string>Flaming Sword</string>
+		<string>Hatchet</string>
+		<string>Polearm</string>
+		<string>Spear</string>
+		<string>War Hammer</string>
+		<string>Feast</string>
+		<string>Fire Ball</string>
+		<string>Good Berries</string>
+		<string>Lantern</string>
+		<string>Lightstone Gem</string>
+		<string>Magial Aura</string>
+		<string>Pawn Broker</string>
+		<string>Town Guard</string>
+	</array>
+</dict>
+</plist>
