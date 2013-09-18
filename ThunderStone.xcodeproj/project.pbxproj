@@ -16,6 +16,20 @@
 		8C9552F817421D7900EF12F9 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C9552F717421D7900EF12F9 /* Default.png */; };
 		8C9552FA17421D7900EF12F9 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C9552F917421D7900EF12F9 /* Default@2x.png */; };
 		8C9552FC17421D7900EF12F9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C9552FB17421D7900EF12F9 /* Default-568h@2x.png */; };
+		8C95530417421D9D00EF12F9 /* TTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C95530317421D9D00EF12F9 /* TTViewController.m */; };
+		8C955306174223EE00EF12F9 /* Thunder Stone.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8C955305174223EE00EF12F9 /* Thunder Stone.plist */; };
+		8C9553161742323E00EF12F9 /* Amazon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C95530C1742323E00EF12F9 /* Amazon.jpg */; };
+		8C9553171742323E00EF12F9 /* Chalice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C95530D1742323E00EF12F9 /* Chalice.jpg */; };
+		8C9553181742323E00EF12F9 /* Dwarf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C95530E1742323E00EF12F9 /* Dwarf.jpg */; };
+		8C9553191742323E00EF12F9 /* Elf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C95530F1742323E00EF12F9 /* Elf.jpg */; };
+		8C95531A1742323E00EF12F9 /* Feayn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553101742323E00EF12F9 /* Feayn.jpg */; };
+		8C95531B1742323E00EF12F9 /* Lorigg Thief.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553111742323E00EF12F9 /* Lorigg Thief.jpg */; };
+		8C95531C1742323E00EF12F9 /* Outlands.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553121742323E00EF12F9 /* Outlands.jpg */; };
+		8C95531D1742323E00EF12F9 /* Redblade.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553131742323E00EF12F9 /* Redblade.jpg */; };
+		8C95531E1742323E00EF12F9 /* Selurin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553141742323E00EF12F9 /* Selurin.jpg */; };
+		8C95531F1742323E00EF12F9 /* Thyrian.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553151742323E00EF12F9 /* Thyrian.jpg */; };
+		8C9553211742355000EF12F9 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553201742355000EF12F9 /* icon@2x.png */; };
+		8C9553231742355B00EF12F9 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C9553221742355B00EF12F9 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +46,21 @@
 		8C9552F717421D7900EF12F9 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		8C9552F917421D7900EF12F9 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		8C9552FB17421D7900EF12F9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8C95530217421D9D00EF12F9 /* TTViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTViewController.h; sourceTree = "<group>"; };
+		8C95530317421D9D00EF12F9 /* TTViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTViewController.m; sourceTree = "<group>"; };
+		8C955305174223EE00EF12F9 /* Thunder Stone.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Thunder Stone.plist"; sourceTree = "<group>"; };
+		8C95530C1742323E00EF12F9 /* Amazon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Amazon.jpg; sourceTree = "<group>"; };
+		8C95530D1742323E00EF12F9 /* Chalice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chalice.jpg; sourceTree = "<group>"; };
+		8C95530E1742323E00EF12F9 /* Dwarf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dwarf.jpg; sourceTree = "<group>"; };
+		8C95530F1742323E00EF12F9 /* Elf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Elf.jpg; sourceTree = "<group>"; };
+		8C9553101742323E00EF12F9 /* Feayn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Feayn.jpg; sourceTree = "<group>"; };
+		8C9553111742323E00EF12F9 /* Lorigg Thief.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lorigg Thief.jpg"; sourceTree = "<group>"; };
+		8C9553121742323E00EF12F9 /* Outlands.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Outlands.jpg; sourceTree = "<group>"; };
+		8C9553131742323E00EF12F9 /* Redblade.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Redblade.jpg; sourceTree = "<group>"; };
+		8C9553141742323E00EF12F9 /* Selurin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Selurin.jpg; sourceTree = "<group>"; };
+		8C9553151742323E00EF12F9 /* Thyrian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thyrian.jpg; sourceTree = "<group>"; };
+		8C9553201742355000EF12F9 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		8C9553221742355B00EF12F9 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +80,8 @@
 		8C9552D917421D7900EF12F9 = {
 			isa = PBXGroup;
 			children = (
+				8C9553221742355B00EF12F9 /* icon.png */,
+				8C9553201742355000EF12F9 /* icon@2x.png */,
 				8C9552EB17421D7900EF12F9 /* ThunderStone */,
 				8C9552E417421D7900EF12F9 /* Frameworks */,
 				8C9552E317421D7900EF12F9 /* Products */,
@@ -80,6 +111,9 @@
 			children = (
 				8C9552F417421D7900EF12F9 /* TTAppDelegate.h */,
 				8C9552F517421D7900EF12F9 /* TTAppDelegate.m */,
+				8C95530217421D9D00EF12F9 /* TTViewController.h */,
+				8C95530317421D9D00EF12F9 /* TTViewController.m */,
+				8C95530717422DFA00EF12F9 /* images */,
 				8C9552EC17421D7900EF12F9 /* Supporting Files */,
 			);
 			path = ThunderStone;
@@ -88,6 +122,7 @@
 		8C9552EC17421D7900EF12F9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8C955305174223EE00EF12F9 /* Thunder Stone.plist */,
 				8C9552ED17421D7900EF12F9 /* ThunderStone-Info.plist */,
 				8C9552EE17421D7900EF12F9 /* InfoPlist.strings */,
 				8C9552F117421D7900EF12F9 /* main.m */,
@@ -97,6 +132,23 @@
 				8C9552FB17421D7900EF12F9 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8C95530717422DFA00EF12F9 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				8C95530C1742323E00EF12F9 /* Amazon.jpg */,
+				8C95530D1742323E00EF12F9 /* Chalice.jpg */,
+				8C95530E1742323E00EF12F9 /* Dwarf.jpg */,
+				8C95530F1742323E00EF12F9 /* Elf.jpg */,
+				8C9553101742323E00EF12F9 /* Feayn.jpg */,
+				8C9553111742323E00EF12F9 /* Lorigg Thief.jpg */,
+				8C9553121742323E00EF12F9 /* Outlands.jpg */,
+				8C9553131742323E00EF12F9 /* Redblade.jpg */,
+				8C9553141742323E00EF12F9 /* Selurin.jpg */,
+				8C9553151742323E00EF12F9 /* Thyrian.jpg */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +207,19 @@
 				8C9552F817421D7900EF12F9 /* Default.png in Resources */,
 				8C9552FA17421D7900EF12F9 /* Default@2x.png in Resources */,
 				8C9552FC17421D7900EF12F9 /* Default-568h@2x.png in Resources */,
+				8C955306174223EE00EF12F9 /* Thunder Stone.plist in Resources */,
+				8C9553161742323E00EF12F9 /* Amazon.jpg in Resources */,
+				8C9553171742323E00EF12F9 /* Chalice.jpg in Resources */,
+				8C9553181742323E00EF12F9 /* Dwarf.jpg in Resources */,
+				8C9553191742323E00EF12F9 /* Elf.jpg in Resources */,
+				8C95531A1742323E00EF12F9 /* Feayn.jpg in Resources */,
+				8C95531B1742323E00EF12F9 /* Lorigg Thief.jpg in Resources */,
+				8C95531C1742323E00EF12F9 /* Outlands.jpg in Resources */,
+				8C95531D1742323E00EF12F9 /* Redblade.jpg in Resources */,
+				8C95531E1742323E00EF12F9 /* Selurin.jpg in Resources */,
+				8C95531F1742323E00EF12F9 /* Thyrian.jpg in Resources */,
+				8C9553211742355000EF12F9 /* icon@2x.png in Resources */,
+				8C9553231742355B00EF12F9 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +232,7 @@
 			files = (
 				8C9552F217421D7900EF12F9 /* main.m in Sources */,
 				8C9552F617421D7900EF12F9 /* TTAppDelegate.m in Sources */,
+				8C95530417421D9D00EF12F9 /* TTViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -243,10 +309,14 @@
 		8C95530017421D7900EF12F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: 廷宇 張 (WA62U64NPS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: 廷宇 張 (WA62U64NPS)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ThunderStone/ThunderStone-Prefix.pch";
 				INFOPLIST_FILE = "ThunderStone/ThunderStone-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "56FAF1E0-78B3-43A0-8F53-1E6731E24164";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "56FAF1E0-78B3-43A0-8F53-1E6731E24164";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -254,10 +324,14 @@
 		8C95530117421D7900EF12F9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: 廷宇 張 (WA62U64NPS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: 廷宇 張 (WA62U64NPS)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ThunderStone/ThunderStone-Prefix.pch";
 				INFOPLIST_FILE = "ThunderStone/ThunderStone-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "56FAF1E0-78B3-43A0-8F53-1E6731E24164";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "56FAF1E0-78B3-43A0-8F53-1E6731E24164";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -281,6 +355,7 @@
 				8C95530117421D7900EF12F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

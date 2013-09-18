@@ -7,13 +7,16 @@
 //
 
 #import "TTAppDelegate.h"
+#import "TTViewController.h"
+
 
 @implementation TTAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
+    TTViewController *viewController = [[TTViewController alloc] init];
+    [self.window setRootViewController:viewController];
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
